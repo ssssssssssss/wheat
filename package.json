@@ -6,9 +6,9 @@
   "author": "Tim Caswell <tim@creationix.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/creationix/wheat.git"
+    "url": "http://github.com/ssssssssssss/wheat.git"
   },
-  "bugs": "http://github.com/creationix/wheat/issues",
+  "bugs": "http://github.com/ssssssssssss/wheat/issues",
   "engines": ["node >= 0.4.0"],
   "main": "lib/wheat.js",
   "dependencies": {
